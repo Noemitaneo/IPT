@@ -1,0 +1,15 @@
+{
+  "[json]": {
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace"
+  },
+  "[jsonc]": {
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace"
+  },
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\git-cmd.exe"
+}
